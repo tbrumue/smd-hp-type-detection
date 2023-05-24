@@ -1,7 +1,5 @@
 # Automatic Differentiation of Variable and Fixed Speed Heat Pumps With Smart Meter Data
 
-### General Information
-
 Author: Tobias Brudermüller (Brudermueller), Bits to Energy Lab, ETH Zurich: tbrudermuell@ethz.ch
 
 This repository contains the Python code and trained models for the [following paper](https://ieeexplore.ieee.org/abstract/document/9961055): 
