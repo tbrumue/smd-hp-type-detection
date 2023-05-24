@@ -1,0 +1,13 @@
+name: hp_type
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pip
+  - python=3.7
+  - setuptools == 45.3.0
+  - pip:
+    - numpy
+    - pandas
+    - scipy
+    - scikit-learn
